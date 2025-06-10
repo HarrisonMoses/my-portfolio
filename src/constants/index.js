@@ -9,11 +9,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "May 2024 - August 2024",
+    role: "Intern Full Stack Developer",
+    company: "Soliton Telmec.",
+    description: ` Developed a full-stack fleet-management system which helped the company to track their fleet expenditures on Fuel,repairs and Drivers with an intuitive Ui for proper visual analytics .`,
+    technologies: ["Javascript", "React.js","Django-drf", "Postgress"],
   },
   {
     year: "2022 - 2023",
