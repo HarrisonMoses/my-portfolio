@@ -10,6 +10,16 @@ I am a dedicated and versatile full stack developer with a passion for creating 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonMoses&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=HarrisonMoses&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarrisonMoses/HarrisonMoses/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarrisonMoses/HarrisonMoses/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HarrisonMoses/HarrisonMoses/output/github-snake.svg" />
+</picture>
+
+###
+
 ---
 [![](https://visitcount.itsvg.in/api?id=HarrisonMoses&icon=0&color=0)](https://visitcount.itsvg.in)
 
